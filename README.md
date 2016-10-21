@@ -7,6 +7,7 @@ Download the binary for your operating system
 
 - [Linux](../../raw/master/dist/linux/fibrerollout)
 - [Mac](../../raw/master/dist/mac/fibrerollout)
+- [Windows](../../raw/master/dist/win/fibrerollout.exe)
 
 ## Binary example usage
 ```
