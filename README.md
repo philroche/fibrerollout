@@ -14,6 +14,8 @@ OR you can specify multiple exchange codes
 fibrerollout --exchange COT --exchange KBE
 ```
 
+![Example Usage](example-usage.png?raw=true "Example Usage")
+
 ## Source Install 
 ```
 git clone https://github.com/philroche/fibrerollout.git
@@ -29,4 +31,4 @@ OR you can specify multiple exchange codes
 python fibrerollout.py --exchange COT --exchange KBE
 ```
 
-![Example Usage](example-usage.png?raw=true "Example Usage")
+
