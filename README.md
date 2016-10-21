@@ -3,7 +3,10 @@ Simple script to pull fibre rollout exchange data from openeir.ie
 
 ## Binary Install 
 
-Download the binary for your operating system from [dist directory](dist/)
+Download the binary for your operating system
+
+- [Linux](../../raw/master/dist/linux/fibrerollout)
+- [Mac](../../raw/master/dist/mac/fibrerollout)
 
 ## Binary example usage
 ```
