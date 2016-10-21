@@ -1,6 +1,13 @@
 # fibrerollout
 Simple script to pull fibre rollout exchange data from openeir.ie
 
+The script pulls the javascript source from [1] to find out the URL 
+for the CSV containing all the updates for the exchanges. 
+It parses that CSV for the provided exchanges and displays the output. 
+
+
+[1] http://www.openeir.ie/NGAnetwork.aspx
+
 ## Binary Install 
 
 Download the binary for your operating system
